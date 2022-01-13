@@ -1,1 +1,43 @@
-<html>
+<!DOCTYPE html>
+<html lang="es">  
+  <head>    
+    <title>WORKER</title>    
+    <meta charset="UTF-8">
+    <meta name="title" content="WORKER">
+    <meta name="description" content="SOLUCIONAMOS">    
+    <link href="http://dominio.com/hoja-de-estilos.css" rel="stylesheet" type="text/css"/>    
+  </head>  
+  <body>    
+    <header>
+      <h1>WORKER</h1>      
+    </header>    
+    <nav>
+      <a href=" ">IR SECCIÓN 2</a>
+      <a href=" ">IR SECCIÓN 3</a>
+    </nav>
+    <section>      
+      <article>
+        <h2>CONTENIDO PRINCIPAL</h2>
+        <p>Este es el contenido principal de mi web</p>
+        <div>
+          <p> </p>
+          <img src=" " alt=" ">          
+        </div>
+      </article>      
+    </section>
+    <aside>
+      <h3>Banner </h3>
+      <a href="h ">
+        <img src=" " alt=" ">
+      </a>
+      <h3>Testimonios</h3>
+      <p>Me gusta mucho esta página.</p>
+    </aside>
+    <footer>
+      <h4>Avisos legales</h4>
+      <a href=" ">Política de cookies</a>
+      <h4>Redes sociales</h4>
+      <a href=" ">Mi Facebook</a>
+    </footer>
+  </body>  
+</html>
